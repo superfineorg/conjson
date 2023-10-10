@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Rican7/conjson/transform"
+	"github.com/superfineorg/conjson/transform"
 )
 
 var (
