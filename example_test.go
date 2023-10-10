@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/Rican7/conjson"
-	"github.com/Rican7/conjson/transform"
+	"github.com/superfineorg/conjson"
+	"github.com/superfineorg/conjson/transform"
 )
 
 type exampleModel struct {
