@@ -1,1 +1,1 @@
-module github.com/Rican7/conjson
+module github.com/superfineorg/conjson
