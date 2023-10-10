@@ -14,7 +14,7 @@ package conjson
 import (
 	"encoding/json"
 
-	"github.com/Rican7/conjson/transform"
+	"github.com/superfineorg/conjson/transform"
 )
 
 // Encoder is an interface defining a simple JSON encoder, with an interface
